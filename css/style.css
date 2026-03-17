@@ -9,6 +9,7 @@ body {
   color: #253238;
 }
 header {
+  /* sombra suave */
   background: linear-gradient(120deg, #04AA6D, #058457);
   color: #fff;
   padding: 60px 20px;
@@ -24,6 +25,7 @@ section {
   border-radius: 12px;
   padding: 24px;
   margin-bottom: 24px;
+  /* sombra suave */
   box-shadow: 0 10px 25px rgba(15, 23, 42, 0.08);
 }
 section h2 {
